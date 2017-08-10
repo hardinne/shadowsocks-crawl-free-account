@@ -1,7 +1,6 @@
 # python 3.0 or later
 import os
 import re
-import urllib
 import urllib.request
 data={}
 data['wd'] = '1111'
