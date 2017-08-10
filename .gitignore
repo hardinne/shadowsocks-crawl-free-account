@@ -87,3 +87,16 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Idea intelliJ generated files
+**/*.idea/
+**/*.iml
+
+# Maven generated files
+**/target/
+
+# Eclipse generated files
+**/*.classpath
+**/*.project
+
+#.gitignore
